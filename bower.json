@@ -1,0 +1,26 @@
+{
+  "name": "webrtc-elements",
+  "homepage": "https://github.com/convoo/webrtc-elements",
+  "authors": [
+    "Will in China <email.will.in.china@gmail.com>",
+    "Saad Elbeleidy <sbeleidy90@gmail.com>"
+  ],
+  "description": "Aggregation bower package for all webrtc elements",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "web-component"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      
+  }
+}
